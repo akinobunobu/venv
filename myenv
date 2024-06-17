@@ -2,7 +2,6 @@
 python -m venv 'myenv'
 'myenv'\Scripts\activate
 
-
 #ubuntu環境の場合
 python3 -m venv 'myenv'
 source ./'myenv'/bin/activate
